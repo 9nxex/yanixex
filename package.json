@@ -1,0 +1,20 @@
+{
+  "name": "yanixex", 
+  "version": "1.0.0", 
+  "description": "Create a comprehensive library for validating various types of data, from strings to complex objects. It could include validators for email addresses, URLs, credit card numbers, and more.", 
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "" 
+  },
+  "keywords": [ 
+    "", 
+    "",
+    ""
+  ],
+  "author": "", 
+  "license": "MIT"
+}
