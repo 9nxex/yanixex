@@ -1,20 +1,23 @@
 {
-  "name": "yanixex", 
-  "version": "1.0.0", 
-  "description": "Create a comprehensive library for validating various types of data, from strings to complex objects. It could include validators for email addresses, URLs, credit card numbers, and more.", 
+  "name": "yanixex",
+  "version": "1.0.3",
+  "description": "Create a comprehensive library for validating various types of data, from strings to complex objects. It could include validators for email addresses, URLs, credit card numbers, and more.",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/9nxex/yanixex.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
-  "license": "MIT"
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "yanix": "^1.0.0"
+  }
 }
